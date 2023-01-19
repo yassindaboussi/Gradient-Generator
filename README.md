@@ -7,11 +7,8 @@ A webpage for generating a random colorful gradient background for your websiteð
 <br/>
 
 
-<p align=center>
-    <div align="center">
-     <img   src ="capture/1.gif"/>
-    </div>
-</p>
+https://user-images.githubusercontent.com/35609041/213457793-5a94a757-fb40-4dfa-ac1a-61429cc2afa4.mp4
+
 
 <p align="center">(<a href="#top">back to top</a>)</p>
 
